@@ -1,0 +1,27 @@
+/* layout.css contain general positioning on the page
+Apply to elements such as header, footer, nav, aside
+Classes and IDs can be included here */
+
+main {
+  margin: 0 auto;
+  width: 80%;
+  overflow: hidden;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+img {
+  width: 450px;
+  height: 300px;
+  border-radius: 3%;
+}
+
+p {
+  font-size: 15px;
+}
