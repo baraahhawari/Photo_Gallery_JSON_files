@@ -1,4 +1,4 @@
-# JSON_files_photo_gallery :smiley:
+# photo gallery :smiley:
 
 Create a photo gallery using the provided JSON files and styled it using floats.
 
@@ -24,6 +24,7 @@ Create a photo gallery using the provided JSON files and styled it using floats.
 1. Sort the images by one of the properties on page load. Also, this will be applied to the second page of images.
 
 ---
+`Second Branch, which is the main` :bowtie:
 
 ### Feature 1: Pagination :grinning:
 
