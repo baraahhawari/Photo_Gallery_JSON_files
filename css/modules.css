@@ -2,13 +2,13 @@
 Apply to elements such as list items, individual images, specific paragraphs
 Classes and descendant selectors should primarily be included here */
 
-.templateId {
+.templateST {
   width: 500px;
   height: 500px;
   float: left;
   margin: 1%;
 }
 
-.templateId:nth-child(2) {
+.templateST:nth-child(2) {
   display: none;
 }
